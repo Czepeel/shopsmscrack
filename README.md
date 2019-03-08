@@ -10,3 +10,5 @@ shopsms crack
 shopsms darmowa licencja
 shopsms za darmo
 shopsms bez licensji
+sourcemod shopsms
+sourcepawn
